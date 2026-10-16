@@ -35,4 +35,3 @@ A full-stack SaaS platform that helps job seekers land more interviews. Upload a
 | Frontend | React 18, TypeScript, Vite, Tailwind CSS, Radix UI, TanStack Query v5, Zustand |
 | Backend | Node.js, Express 4, TypeScript, Mongoose 8 |
 | Database | MongoDB 7 |
-| AI | Anthropic Claude (primary) / OpenAI (fallback) / Demo mode |
