@@ -1,5 +1,4 @@
 # ResumeIQ — AI Resume Analyser SaaS
-# ResumeIQ — AI-Powered Resume Analyser
 
 A full-stack AI-powered resume analysis platform built with the MERN stack.
 Upload a resume, get an instant AI-powered score, match it against job descriptions,
